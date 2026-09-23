@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Enes! 👋</h1>
-<h3 align="center">Computer Programming Student | Frontend Developer at Acun Medya Akademi</h3>
+<h3 align="center">Computer Programming Student | Frontend Trainee at Acun Medya Akademi</h3>
 
 <br>
 
