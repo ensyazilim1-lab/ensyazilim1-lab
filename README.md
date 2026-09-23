@@ -11,14 +11,15 @@
 
 ---
 
-### 👨‍💻 Hakkımda / About Me
+### 👨‍💻 About Me
 
-* **TR:** Bilgisayar Programcılığı öğrencisiyim ve Acun Medya Akademi'de Frontend Web Development eğitimi alıyorum. Temiz kod (clean code) yazmaya, kendimi sürekli geliştirmeye ve öğrendiklerimi projeye dökerek pratik yapmaya büyük önem veriyorum.
-* **EN:** I'm a Computer Programming student and a Frontend Web Development trainee at Acun Medya Akademi. I focus on writing clean code, continuously improving myself, and building practical projects.
+* I'm a Computer Programming student and a Frontend Web Development trainee at Acun Medya Akademi. 
+* Passionate about combining my background in cybersecurity (as the founder of the EQUINOX community) with frontend development to build secure and modern web applications.
+* Focused on writing clean code, continuously improving myself, and building practical projects.
 
 ---
 
-### 🛠️ Tech Stack (Kullandığım Teknolojiler)
+### 🛠️ Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -31,6 +32,6 @@
 
 ---
 
-### 🚀 Hedeflerim & Vizyonum
-* Modern web teknolojilerinde uzmanlaşmak ve kullanıcı dostu arayüzler tasarlamak.
-* Siber güvenlik alanındaki birikimimle frontend dünyasını harmanlayarak özgün projeler ortaya koymak.
+### 🚀 Goals & Vision
+* Master modern web technologies and craft user-friendly, responsive interfaces.
+* Merge cybersecurity principles with frontend development to create unique, safe digital experiences.
