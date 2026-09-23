@@ -13,9 +13,8 @@
 
 ### 👨‍💻 About Me
 
-* I'm a Computer Programming student and a Frontend Web Development trainee at Acun Medya Akademi. 
-* Passionate about combining my background in cybersecurity (as the founder of the EQUINOX community) with frontend development to build secure and modern web applications.
-* Focused on writing clean code, continuously improving myself, and building practical projects.
+* I am a Computer Programming student and a Frontend Web Development trainee at Acun Medya Akademi.
+* I focus on clean code, modern user interfaces, and practical project production.
 
 ---
 
@@ -40,4 +39,4 @@
 
 ### 🚀 Goals & Vision
 * Master modern web technologies and craft user-friendly, responsive interfaces.
-* Merge cybersecurity principles with frontend development to create unique, safe digital experiences.
+* Build scalable and high-performance web applications.
