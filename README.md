@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Enes! 👋
 
-<!--
-**ensyazilim1-lab/ensyazilim1-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Programming Student | Frontend Developer at Acun Medya Akademi 💻
 
-Here are some ideas to get you started:
+💻 **Technologies & Tools:**
+* **Languages:** HTML5, CSS3, JavaScript
+* **Version Control:** Git & GitHub
+* **Environment:** VS Code, Windows & macOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Goals:**
+* Master modern web technologies
+* Build user-friendly interfaces with clean code principles
+* Combine cybersecurity and frontend development perspectives
